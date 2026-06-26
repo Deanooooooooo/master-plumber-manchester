@@ -35,9 +35,13 @@
 
 ## Build / Visual QA
 
-- Pending: `npm run build`
-- Pending: `npm run build:github`
-- Pending: desktop screenshot
-- Pending: mobile screenshot
-- Pending: gallery/contact/footer screenshot
-- Pending: live deployment and live QA
+- PASS: `npm run build`
+- PASS: `npm run build:github`
+- PASS: desktop hero/form screenshot: `qa-desktop-hero.png`
+- PASS: mobile hero/form screenshot: `qa-mobile-hero.png`
+- PASS: gallery screenshot: `qa-desktop-gallery.png`
+- PASS: contact screenshot: `qa-desktop-contact.png`
+- PASS: map/footer screenshot: `qa-desktop-map-footer.png`
+- PASS: GitHub Pages deployed from `gh-pages` with `.nojekyll`.
+- PASS: Live HTML 200, CSS 200, hero image 200.
+- PASS: Live HTML has one H1, one form, SMS/call routes, map iframe, schema, OG tags and canonical.

@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   description:
     "Manchester plumbing, heating, bathroom refurbishment, boiler installation and general repair enquiries through Master Plumber Manchester Ltd.",
   robots: "index, follow",
+  alternates: {
+    canonical: "https://deanooooooooo.github.io/master-plumber-manchester/",
+  },
   openGraph: {
     type: "website",
     title: "Master Plumber Manchester Ltd | Manchester Plumber",
