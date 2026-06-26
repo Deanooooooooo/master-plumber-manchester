@@ -18,6 +18,7 @@
 - PASS: Image dimensions checked with `sips`; selected gallery images are 675x900 portrait.
 - PASS: Low-resolution `profile-bathroom.jpg` rejected for visible use.
 - PASS: No stock project proof, no generated project proof, no duplicate gallery files.
+- LIMITED: Gallery images are verified real images but appear to be one grey bathroom refurb project set, not multiple finishes/projects. Public copy has been tightened to describe verified refurb details rather than a varied portfolio.
 
 ## Testimonials / Proof Audit
 

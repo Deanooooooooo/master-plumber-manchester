@@ -10,16 +10,17 @@
 
 ## Selected Images
 
-| File | Source | Subject | Dimensions | Quality Notes | Class | Placement |
-| --- | --- | --- | --- | --- | --- | --- |
-| `walk-in-shower.jpeg` | Nextdoor activity photo | Finished walk-in shower with grey tiles and black fixtures | 675x900 | Sharp, portrait, best overall proof image; safe for tall cards and muted hero background | service/action | Hero background, gallery, contact strip |
-| `bathroom-vanity-radiator.jpeg` | Nextdoor activity photo | Vanity, black heated towel rail and tiled wall | 675x900 | Sharp and crop-safe; strong finish detail | service/action | Gallery, contact strip |
-| `finished-vanity.jpeg` | Nextdoor activity image | Vanity, mirror, wall unit and tiled finish | 675x900 | Sharp, portrait, distinct angle from other images | service/action | Feature image, gallery, contact strip |
-| `profile-bathroom.jpg` | Nextdoor business image | Small bathroom profile image | 100x133 | Too small for visible marketing use | reject | Unused |
+| File | Source | Project group | Subject | Dimensions | Quality Notes | Class | Placement |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `walk-in-shower.jpeg` | Nextdoor activity photo | Grey bathroom refurb set | Finished walk-in shower with grey tiles and black fixtures | 675x900 | Sharp, portrait, best overall proof image; safe for tall cards and muted hero background | service/action | Hero background, gallery, contact strip |
+| `bathroom-vanity-radiator.jpeg` | Nextdoor activity photo | Grey bathroom refurb set | Vanity, black heated towel rail and tiled wall | 675x900 | Sharp and crop-safe; same verified project set, strong finish detail | service/action | Gallery, contact strip |
+| `finished-vanity.jpeg` | Nextdoor activity image | Grey bathroom refurb set | Vanity, mirror, wall unit and tiled finish | 675x900 | Sharp, portrait, same verified project set from a distinct angle | service/action | Feature image, gallery, contact strip |
+| `profile-bathroom.jpg` | Nextdoor business image | Unknown | Small bathroom profile image | 100x133 | Too small for visible marketing use | reject | Unused |
 
 ## Placement Notes
 
 - No low-resolution image is stretched as a full hero proof image. The hero uses a dark atmospheric treatment with the real shower image at low opacity.
 - The three real project images are used in portrait frames matching their source orientation.
+- The usable verified images appear to come from one grey bathroom refurb set. The public copy must describe them as verified refurb details, not a varied portfolio or a range of different finishes.
 - No generated or stock project images are used.
 - No testimonial/review screenshots were available with reliable names and text, so testimonial cards were not created.

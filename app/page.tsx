@@ -86,7 +86,7 @@ const proofPoints = [
   "Manchester plumber listed publicly for plumbing, heating, renovations and bathroom refurb work.",
   "Direct mobile number shown consistently on the public business profile.",
   "Registered local company for plumbing, heat and air-conditioning installation work.",
-  "Real bathroom project images available from the business activity feed.",
+  "Verified bathroom refurb detail images available from the business activity feed.",
 ];
 
 const faqs = [
@@ -384,7 +384,7 @@ export default function Page() {
         <div className="mx-auto max-w-7xl px-4 sm:px-8">
           <Reveal>
             <p className="mb-3 text-xs font-black uppercase text-cyan-200">Bathroom work</p>
-            <h2 className="max-w-4xl text-4xl font-black leading-none sm:text-6xl">Real refurb images with the details customers look for.</h2>
+            <h2 className="max-w-4xl text-4xl font-black leading-none sm:text-6xl">Verified bathroom refurb details from the public activity feed.</h2>
           </Reveal>
         </div>
         <div className="gallery-track mx-auto mt-12 grid w-full max-w-7xl grid-cols-1 gap-4 px-4 sm:px-8 md:flex md:w-[92rem] md:max-w-none">
@@ -402,7 +402,7 @@ export default function Page() {
           <p className="mb-3 text-xs font-black uppercase text-cyan-200">Bathroom refurbishments</p>
           <h2 className="text-4xl font-black leading-none sm:text-6xl">Clean finishes, practical layouts and heating details handled together.</h2>
           <p className="mt-6 text-lg leading-8 text-white/62">
-            The visible work shows modern grey tile finishes, black fixtures, a walk-in shower screen, vanity storage and heated towel rail installation.
+            The verified refurb set shows modern grey tile finishes, black fixtures, a walk-in shower screen, vanity storage and heated towel rail installation.
           </p>
         </Reveal>
         <Reveal className="relative min-h-[560px] overflow-hidden rounded-2xl border border-white/10 bg-white/[0.055]">
