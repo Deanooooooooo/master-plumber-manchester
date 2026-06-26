@@ -387,10 +387,10 @@ export default function Page() {
             <h2 className="max-w-4xl text-4xl font-black leading-none sm:text-6xl">Real refurb images with the details customers look for.</h2>
           </Reveal>
         </div>
-        <div className="gallery-track mt-12 flex w-[92rem] gap-4 px-4 sm:px-8">
+        <div className="gallery-track mx-auto mt-12 grid w-full max-w-7xl grid-cols-1 gap-4 px-4 sm:px-8 md:flex md:w-[92rem] md:max-w-none">
           {work.map((item) => (
-            <motion.figure key={item.src} className="relative h-[560px] w-[350px] shrink-0 overflow-hidden rounded-2xl border border-white/10 bg-white/5 sm:w-[420px]" whileHover={{ y: -10, scale: 1.018 }}>
-              <Image src={assets(item.src)} alt={item.alt} fill sizes="420px" loading="eager" className="object-cover" />
+            <motion.figure key={item.src} className="relative h-[72vh] max-h-[560px] min-h-[420px] w-full shrink-0 overflow-hidden rounded-2xl border border-white/10 bg-white/5 sm:min-h-[520px] md:h-[560px] md:w-[420px]" whileHover={{ y: -10, scale: 1.018 }}>
+              <Image src={assets(item.src)} alt={item.alt} fill sizes="(min-width: 768px) 420px, 100vw" loading="eager" className="object-cover" />
               <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black via-black/65 to-transparent p-5 text-sm font-black">{item.title}</figcaption>
             </motion.figure>
           ))}
